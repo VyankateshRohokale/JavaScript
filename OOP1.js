@@ -1,9 +1,11 @@
-function Addition(no1, no2) {
+function Addition(no1, no2) 
+{
     var ans = 0;
     ans = no1 + no2;
     return ans;
 }
-function Substraction(no1, no2) {
+function Substraction(no1, no2) 
+{
     var ans = 0;
     ans = no1 - no2;
     return ans;
